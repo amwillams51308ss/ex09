@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TTVkz7Mw9pB8JwGu+v2mosxbQDTBx2qlX2Mgm701eeHIbL0j+bAFeJIr9Y+XJMWYA1DsnuZqjDnMDL4/Vyw0yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Csharp-Public-Csharp-Course-3\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
